@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.niit.skillsmapper.application.EmployeeMicroservice</config>
+		<config>java:com.niit.skillsmapper.application.CertificateMicroservice</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
